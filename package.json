@@ -1,0 +1,30 @@
+{
+  "name": "basic-setup",
+  "version": "1.0.0",
+  "description": "ejs basic setup",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ejs",
+    "template",
+    "basic"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/ejs-template-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/ejs-template-basic/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/ejs-template-basic#readme"
+}
